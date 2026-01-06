@@ -1,4 +1,4 @@
-Hi, I'm Chase! 🤠 I'm a Software Engineer at Apple working on Privacy applications
+Hi, I'm Chase! 🤠 I'm a recent graduate of Northeastern University (MSCS) and am currently working at Apple developing Privacy based applications
 <br><br> 
 Most of my projects are in an org, so feel free to look there. The ones I had the most fun building are:<br><br>
 [Bellcrve](https://github.com/Bellcrve) -- <b>WINNER</b> Yale Hacks 2024 - A Monte Carlo Simulator that calculates stock option pricing and distributes over 20,000 simulations across 10 virtual machines highlighting the distributed environment for market makers. All math done from scratch and package in a [pypi](https://pypi.org/manage/project/mc-option-simulator-yale/releases/).<br><br>
